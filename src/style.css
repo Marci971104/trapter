@@ -1,0 +1,68 @@
+/*
+* File: style.css
+* Author: Rohrbacher Marcell, Szűcs Norbert
+* Copyright: 2021, Nagy János
+* Group: Szoft II
+* Date: 2021-10-14
+* Github: https://github.com/Marci971104/, https://github.com/Szucs-Norbert?fbclid=IwAR3iEh8T1fDZ1Bsde7G8iLZjEthrYv5pQbwfimAjkdco74zWPAqi-PMrTrM
+*/
+
+
+.mb-3{color:white;
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+div{
+    background-color:none;
+    text-align: center;
+
+
+}
+body{
+   margin: 0 auto 0 auto;
+    align-items: center;
+    width:25%; 
+    height:25px;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("pic/wooden-background-1490898564QuQ\ \(Nagy\)\ \(Egyéni\).jpg");
+    background-repeat: repeat; 
+
+    
+    
+}
+center{
+    font-size:x-large;
+    text-decoration: underline;
+    color: white;
+    font-display:inherit;
+    padding-bottom: 10%;
+
+}
+
+.nav{
+
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+h1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: white;
+    padding-bottom:2px;
+    text-indent: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    color:whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
